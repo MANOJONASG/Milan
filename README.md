@@ -10,7 +10,7 @@ Site de fã sobre a **Associazione Calcio Milan**, construído do zero com **HTM
 
 🔗 **Demo:** `https://SEU-USUARIO.github.io/SEU-REPOSITORIO/`
 
-![Prévia do site](docs/screenshots/02-hero.png)
+![Prévia do site](docs/02-hero.png)
 
 > Projeto sem vínculo oficial com o AC Milan, feito para estudo e portfólio.
 
@@ -34,13 +34,13 @@ Praticar a construção de uma interface completa e polida usando apenas as tecn
 
 | | |
 |---|---|
-| ![Abertura](docs/screenshots/02-hero.png) | ![Números e clube](docs/screenshots/03-numeros-e-clube.png) |
+| ![Abertura](docs/02-hero.png) | ![Números e clube](docs/03-numeros-e-clube.png) |
 | **Abertura** com escudo e chamadas para ação | **Números** de destaque e apresentação do clube |
-| ![Ficha do clube](docs/screenshots/04-ficha-do-clube.png) | ![História](docs/screenshots/05-historia.png) |
+| ![Ficha do clube](docs/04-ficha-do-clube.png) | ![História](docs/05-historia.png) |
 | **Ficha** com os dados principais | **Linha do tempo** da história |
-| ![Elenco](docs/screenshots/07-elenco.png) | ![Troféus](docs/screenshots/08-trofeus.png) |
+| ![Elenco](docs/07-elenco.png) | ![Troféus](docs/08-trofeus.png) |
 | **Elenco** com filtro por posição | **Troféus** com fotos e contagem |
-| ![Ídolos](docs/screenshots/09-idolos.png) | ![San Siro](docs/screenshots/10-san-siro-tema-escuro.png) |
+| ![Ídolos](docs/09-idolos.png) | ![San Siro](docs/10-san-siro-tema-escuro.png) |
 | **Ídolos** eternos | **San Siro** no tema escuro |
 
 ## 🧩 Seções do site
@@ -84,34 +84,12 @@ Praticar a construção de uma interface completa e polida usando apenas as tecn
 - Pesquisa e organização de conteúdo em português
 - Versionamento com Git e publicação com GitHub Pages
 
-## 📁 Estrutura do projeto
-
-```
-.
-├── index.html                  # página do site
-├── README.md
-├── LICENSE
-├── .gitignore
-├── assets/
-│   ├── CREDITS.md              # origem e licença de cada imagem
-│   └── images/
-│       ├── README.md           # guia de nomes e tamanhos
-│       ├── logo/               # escudo da barra de navegação
-│       ├── hero/               # imagem do topo
-│       ├── historia/           # banner da linha do tempo
-│       ├── trofeus/            # uma foto por troféu
-│       ├── elenco/             # fotos dos jogadores (opcional)
-│       ├── idolos/             # fotos dos ídolos (opcional)
-│       └── estadio/            # foto do San Siro
-└── docs/
-    └── screenshots/            # capturas de tela usadas neste README
-```
 
 ## 🚀 Como executar
 
 ```bash
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
-cd SEU-REPOSITORIO
+git clone https://github.com/SEU-USUARIO/milan.git
+cd milan
 ```
 
 Abra o `index.html` no navegador (dois cliques no arquivo). Não é preciso instalar nada.
